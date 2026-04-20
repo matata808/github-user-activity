@@ -18,7 +18,7 @@ A Java CLI tool that fetches and displays a GitHub user's recent public activity
 - Fetches recent public events via the GitHub API
 - Aggregates push events per repository (e.g. "Pushed 5 commits to ...")
 - Displays pull requests, branch creations, deletions, stars, and more
-- No external frameworks — just Java and the GitHub REST API
+- No external frameworks. Just Java and the GitHub REST API
 
 ## Requirements
 
