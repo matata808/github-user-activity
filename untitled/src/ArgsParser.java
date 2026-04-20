@@ -1,3 +1,5 @@
+package untitled.src;
+
 public class ArgsParser {
 
     public static String isValid(String[] command) {
